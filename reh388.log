@@ -120,8 +120,4 @@ vec241
 | * bfa3562 3rd commit (1st on branch1)
 * | d07945e 2nd commit (2nd on master)
 |/  
-<<<<<<< HEAD
 * e7c1a9f 1st commit (1st on master)
-=======
-* e7c1a9f 1st commit (1st on master)
->>>>>>> origin
