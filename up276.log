@@ -1,4 +1,4 @@
-reh388
+reh388.log
 *   92278e4 (HEAD -> master) m4
 |\  
 | *   8b707fc (b3) m2
@@ -20,6 +20,26 @@ reh388
 |/  
 * b273546 1st commit (1st on master).
 
+rgc292
+*   c5f4300 Merge branch 'branch_3'
+|\  
+| *   72538e4 Merge branch 'branch_2' into branch_3
+| |\  
+| * | 17d9015 on b3 5.txt
+* | |   cc5be69 Merge branch 'branch_2'
+|\ \ \  
+| | |/  
+| |/|   
+| * |   444acb5 merge b1 into b2
+| |\ \  
+| | |/  
+| | * 22f55ea b1 c1
+* | | f6a2f19 master c3
+|/ /  
+* | c1407fd master c2
+|/  
+* f38d177 master c1
+
 up276
 *   fb0f9be merging B3 into master
 |\  
@@ -39,3 +59,45 @@ up276
 * | 406b8c2 up276 commit master #2
 |/  
 * d6e395a up276 commit master #1
+
+vdn207
+*   870ddd7 (HEAD, master) Merging 2_3 into master
+|\  
+| *   d8ab145 (2_3) Merge branch '2_2' into 2_3
+| |\  
+| * | b85b29a 2_3C1
+* | |   df7f327 Merging 2_2 into master
+|\ \ \  
+| | |/  
+| |/|   
+| * |   283e015 (2_2) Merge 1_2 into 2_2
+| |\ \  
+| | |/  
+| | * b11e7dd (1_2) 1_2C1
+* | | dc3632e masterC3
+|/ /  
+* | 1108d5a masterC2
+|/  
+* 33b0c32 masterC1
+
+vec241
+*   405e92a merging branch3 to master
+|\  
+| *   fce477f merging master to branch 3
+| |\  
+| * | 817a70d 5th commit (1st in branch 5)
+* | |   9e4b34e merging branch2 to master
+|\ \ \  
+| |_|/  
+|/| |   
+| * | 8b58bfa 4th commit (1st in branch 2)
+* | |   0919d23 merging branch1 to master
+|\ \ \  
+| |/ /  
+| | /   
+| |/    
+|/|     
+| * bfa3562 3rd commit (1st on branch1)
+* | d07945e 2nd commit (2nd on master)
+|/  
+* e7c1a9f 1st commit (1st on master)
