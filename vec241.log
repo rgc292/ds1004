@@ -1,3 +1,26 @@
+#reh388
+*   92278e4 (HEAD -> master) m4
+|\  
+| *   8b707fc (b3) m2
+| |\  
+| * | 1c84b2b 5th commit (1st on b3).
+* | |   fcf3cd1 m3
+|\ \ \  
+| |_|/  
+|/| |   
+| * | e4de66f (b2) 4th commit (1st on b2).
+* | |   bbcc798 m1
+|\ \ \  
+| |/ /  
+| | /   
+| |/    
+|/|     
+| * 7d7c683 (b1)  3rd commit (1st on b1).
+* | 8a19fd8 2nd commit (2nd on master).
+|/  
+* b273546 1st commit (1st on master).
+
+#vec241
 vec241
 *   405e92a merging branch3 to master
 |\  
