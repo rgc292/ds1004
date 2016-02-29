@@ -18,3 +18,23 @@
 * | 8a19fd8 2nd commit (2nd on master).
 |/  
 * b273546 1st commit (1st on master).
+
+up276
+*   fb0f9be merging B3 into master
+|\  
+| *   98f04ac merging B2 into B3
+| |\  
+| * | 097e83b up276 commit B3 #1
+* | |   966a290 merging B2 into master
+|\ \ \  
+| | |/  
+| |/|   
+| * |   e1d43e5 merging B1 into B2
+| |\ \  
+| | |/  
+| | * e7cbbfb up276 commit B1 #1
+* | | 51b2629 up276 commit master #3
+|/ /  
+* | 406b8c2 up276 commit master #2
+|/  
+* d6e395a up276 commit master #1
