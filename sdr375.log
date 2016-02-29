@@ -1,3 +1,23 @@
+rgc292
+*   c5f4300 Merge branch 'branch_3'
+|\  
+| *   72538e4 Merge branch 'branch_2' into branch_3
+| |\  
+| * | 17d9015 on b3 5.txt
+* | |   cc5be69 Merge branch 'branch_2'
+|\ \ \  
+| | |/  
+| |/|   
+| * |   444acb5 merge b1 into b2
+| |\ \  
+| | |/  
+| | * 22f55ea b1 c1
+* | | f6a2f19 master c3
+|/ /  
+* | c1407fd master c2
+|/  
+* f38d177 master c1
+
 sdr375
 *   e44f80c Merge branch 'branch_3' into master
 |\  
