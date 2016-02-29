@@ -40,6 +40,26 @@ rgc292
 |/  
 * f38d177 master c1
 
+sdr375
+*   e44f80c Merge branch 'branch_3' into master
+|\  
+| *   ed412eb Merge branch 'branch_2' into branch_3
+| |\  
+| * | bf4f80e branch_3 commit 1
+* | |   9940a44 Merge branch 'branch_2' into master
+|\ \ \  
+| | |/  
+| |/|   
+| * |   89eda89 merging branch_1 into branch_2
+| |\ \  
+| | |/  
+| | * c364f19 branch_1 commit 1
+* | | 2c2b92e master commit 3
+|/ /  
+* | cad86f3 master commit 2
+|/  
+* c9793d9 master commit 1
+
 up276
 *   fb0f9be merging B3 into master
 |\  
