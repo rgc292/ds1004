@@ -17,3 +17,25 @@ up276
 * | 406b8c2 up276 commit master #2
 |/  
 * d6e395a up276 commit master #1
+
+vec241
+*   405e92a merging branch3 to master
+|\  
+| *   fce477f merging master to branch 3
+| |\  
+| * | 817a70d 5th commit (1st in branch 5)
+* | |   9e4b34e merging branch2 to master
+|\ \ \  
+| |_|/  
+|/| |   
+| * | 8b58bfa 4th commit (1st in branch 2)
+* | |   0919d23 merging branch1 to master
+|\ \ \  
+| |/ /  
+| | /   
+| |/    
+|/|     
+| * bfa3562 3rd commit (1st on branch1)
+* | d07945e 2nd commit (2nd on master)
+|/  
+* e7c1a9f 1st commit (1st on master)
